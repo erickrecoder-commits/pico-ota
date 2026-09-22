@@ -95,4 +95,4 @@ while True:
         revisar_ota()
         contador = 0
 
-    time.sleep(6)
+    time.sleep(5)
